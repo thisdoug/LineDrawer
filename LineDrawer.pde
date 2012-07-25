@@ -9,7 +9,7 @@ void setup() {
 
 void draw() {
   background(100);
-  stroke(255);
+  stroke(245);
   translate(30, 100);
   rotate(angle);
   if (endx < 350) {
